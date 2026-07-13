@@ -16,9 +16,9 @@ CONFIG = {
     "whale_threshold": 10000,
     "arbitrage_min_diff": 0.02,
     "price_alerts": {},
-    "telegram_token": "8618237663:AAHTdtZ0FcfT-2mGTFEbqSd8cWLqHqRIF18",
-    "telegram_chat_id": "1291020613",
-    "discord_webhook_url": "https://discord.com/api/webhooks/1526276835724365967/FXWauv6ZuvUt6LP7-PD5pVCSsD6hHII8yz3VJnDbmsXIrqft_G-tYFFlMgB6BFLEeYIi",
+    "telegram_token": "API_KEY_TELEGRAM_BOT",
+    "telegram_chat_id": "CHAT_ID_TELEGRAM",
+    "discord_webhook_url": "WEBHOOK_URL",
     "log_file": "polymarket_bot.log"
 }
 
